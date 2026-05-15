@@ -1,56 +1,62 @@
 # 📊 IT Helpdesk Ticket Dashboard
 
-An interactive IT Helpdesk analytics dashboard built using **Power BI Desktop**.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-250K%20Tickets-blue?style=for-the-badge)
+
+> 🚀 An interactive IT Helpdesk analytics dashboard built using **Power BI Desktop**
+> to help IT teams track, manage, and resolve support tickets efficiently.
 
 ---
 
-## 📌 Project Overview
+## 🖼️ Dashboard Preview
 
-This dashboard provides insights into IT support ticket management,
-helping teams monitor resolution rates, escalations, and team performance.
+📄 [Click here to view the Dashboard PDF](./dashbord.pdf)
+
+---
+
+## 🎯 Problem Statement
+
+IT support teams struggle to track large volumes of helpdesk tickets across
+multiple categories, priorities, and teams. This dashboard solves that by
+providing a **single unified view** of all ticket activity and performance.
 
 ---
 
 ## 📈 Key Metrics
 
-| Metric | Value |
+| 🔢 Metric | 📊 Value |
 |---|---|
-| Total Tickets | 250K |
-| Resolved Tickets | 50K |
-| Resolution Rate | 20.11% |
-| Escalated Tickets | 125K |
-| Avg Resolution Time | 5.24 days |
-| Critical Tickets | 250K |
+| 🎫 Total Tickets | 250,000 |
+| ✅ Resolved Tickets | 50,000 |
+| 📉 Resolution Rate | 20.11% |
+| 🚨 Escalated Tickets | 125,000 |
+| ⏱️ Avg Resolution Time | 5.24 Days |
+| 🔴 Critical Tickets | 250,000 |
 
 ---
 
 ## 📊 Visualizations Included
 
-- ✅ KPI Cards (Total, Resolved, Escalated, Critical Tickets)
-- 🍩 Ticket Status Donut Chart (Resolved, Open, Pending, On Hold, In Progress)
-- 📊 Tickets by Category (Software, Security, Hardware, Network, Access)
-- 📅 Tickets by Month (Trend Analysis)
-- 👥 Tickets by Assigned Team (Desktop Support, Application Support, etc.)
-- 🔍 Filters by Priority and Category
-
----
-
-## 🗂️ Files in This Repository
-
-| File | Description |
+| Visual | Description |
 |---|---|
-| `dashbord.pdf` | Dashboard PDF export |
-| `helpdesk_tickets.csv` | Raw data source |
+| 🃏 KPI Cards | Quick snapshot of key metrics |
+| 🍩 Donut Chart | Ticket distribution by Status |
+| 📊 Bar Chart | Tickets by Category |
+| 📅 Line Chart | Monthly ticket trend |
+| 📉 Bar Chart | Tickets by Assigned Team |
+| 🔍 Slicers | Filter by Priority & Category |
 
 ---
 
-## 🛠️ Tools Used
+## 💡 Key Insights
 
-- Microsoft Power BI Desktop
-- CSV Data Source
+- ⚠️ Only **20%** of tickets are resolved — indicates backlog issue
+- 🚨 **50%** of tickets are escalated — first-level resolution needs improvement  
+- 👥 **Desktop Support** team handles the highest ticket volume
+- 📂 All categories (Software, Hardware, Network, Security, Access) have equal load
+- 📅 Data currently shows **November** trends only
 
 ---
 
-## 👩‍💻 Author
-
-**rutusuryavanshi1008**
+## 🗂️ Repository Structure
