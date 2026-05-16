@@ -11,7 +11,7 @@
 
 ## 🖼️ Dashboard Preview
 
-📄 [Click here to view the Dashboard PDF](./dashbord.pdf)
+📄 [Click here to view the Dashboard ](./dashbord.html)
 
 ---
 
