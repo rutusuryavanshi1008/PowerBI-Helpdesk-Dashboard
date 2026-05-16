@@ -11,7 +11,7 @@
 
 ## 🖼️ Dashboard Preview
 
-📄 📄 [Click here to view the Dashboard](./IT_Helpdesk_Dashboard.pdf)
+📄 [Click here to view the Dashboard](./IT_Helpdesk_Dashboard.pdf)
 
 ---
 
